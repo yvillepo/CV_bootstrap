@@ -262,11 +262,11 @@ section .heading h2
 /* EDUCATION */
 #education
 {
-    background: #fff;
+    background: #d82c2e;
 }
 #education .heading h2
 {
-    color: #d82c2e;
+    color: #fff;
 }
 .education-block
 {
@@ -310,11 +310,11 @@ section .heading h2
 /* PORTFOLIO */
 #portfolio
 {
-    background: #d82c2e;
+    background: #fff;
 }
 #portfolio .heading h2
 {
-    color: #fff;
+    color: #d82c2e;
 }
 #portfolio .thumbnail img
 {
